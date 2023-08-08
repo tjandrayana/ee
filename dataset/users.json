@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Ali Wilson",
+        "email":"ali.wilson@test.com",
+        "address":"jalan jakarta utara 20"
+    },
+    {
+        "name": "Ali Wijaya",
+        "email":"ali.wijaya@test.com",
+        "address":"jalan jakarta utara 10"
+    },
+    {
+        "name": "Wijaya Saputra",
+        "email":"wijaya.saputra@test.com",
+        "address":"jakarta selatan 50"
+    },
+    {
+        "name": "Wijaya Saputra Sentosa",
+        "email":"wijaya.saputra.sentosa@test.com",
+        "address":"jakarta selatan 28"
+    }
+]
