@@ -1,22 +1,143 @@
 [
     {
-        "name": "Ali Wilson",
-        "email":"ali.wilson@test.com",
-        "address":"jalan jakarta utara 20"
+      "id": 1,
+      "name": "Budi Santoso",
+      "email": "budi@example.com",
+      "address": "Jl. Diponegoro 8, Surabaya, Indonesia",
+      "phone_number": "082212345678"
     },
     {
-        "name": "Ali Wijaya",
-        "email":"ali.wijaya@test.com",
-        "address":"jalan jakarta utara 10"
+      "id": 2,
+      "name": "Rina Wijaya",
+      "email": "rina@example.com",
+      "address": "Jl. Mawar 5, Bandung, Indonesia",
+      "phone_number": "08143567678"
     },
     {
-        "name": "Wijaya Saputra",
-        "email":"wijaya.saputra@test.com",
-        "address":"jakarta selatan 50"
+      "id": 3,
+      "name": "Andi Susanto",
+      "email": "andi@example.com",
+      "address": "Jl. Merdeka No. 123, Jakarta, Indonesia",
+      "phone_number": "62822345178"
     },
     {
-        "name": "Wijaya Saputra Sentosa",
-        "email":"wijaya.saputra.sentosa@test.com",
-        "address":"jakarta selatan 28"
+      "id": 4,
+      "name": "Dewi Sari",
+      "email": "dewi@example.com",
+      "address": "Jl. Kelapa 15, Yogyakarta, Indonesia",
+      "phone_number": "082289123458"
+    },
+    {
+      "id": 5,
+      "name": "Rudi Prasetyo",
+      "email": "rudi@example.com",
+      "address": "Jl. Melati 9, Malang, Indonesia",
+      "phone_number": "628212345678"
+    },
+    {
+      "id": 6,
+      "name": "Siti Nurul",
+      "email": "siti@example.com",
+      "address": "Jl. Kenanga 2, Medan, Indonesia",
+      "phone_number": "628092345123"
+    },
+    {
+      "id": 7,
+      "name": "Eka Purnama",
+      "email": "eka@example.com",
+      "address": "Jl. Gajah Mada 18, Surakarta, Indonesia",
+      "phone_number": "62822125678"
+    },
+    {
+      "id": 8,
+      "name": "Rudi Hartono",
+      "email": "rudi.h@example.com",
+      "address": "Jl. Pahlawan 7, Makassar, Indonesia",
+      "phone_number": "082212345678"
+    },
+    {
+      "id": 9,
+      "name": "Sari Indah",
+      "email": "sari.indah@example.com",
+      "address": "Jl. Anggrek 12, Denpasar, Indonesia",
+      "phone_number": "082212345678"
+    },
+    {
+      "id": 10,
+      "name": "Dedi Cahyono",
+      "email": "dedi@example.com",
+      "address": "Jl. Cendrawasih 23, Semarang, Indonesia",
+      "phone_number": "082212345678"
+    },
+    {
+      "id": 11,
+      "name": "Lina Pratiwi",
+      "email": "lina@example.com",
+      "address": "Jl. Puri Indah 4, Palembang, Indonesia",
+      "phone_number": "082212345678"
+    },
+    {
+      "id": 12,
+      "name": "Ahmad Fauzi",
+      "email": "ahmad@example.com",
+      "address": "Jl. Veteran 31, Surabaya, Indonesia",
+      "phone_number": "082212345678"
+    },
+    {
+      "id": 13,
+      "name": "Sinta Devi",
+      "email": "sinta@example.com",
+      "address": "Jl. Dahlia 17, Malang, Indonesia",
+      "phone_number": "082212345678"
+    },
+    {
+      "id": 14,
+      "name": "Adi Nugroho",
+      "email": "adi.n@example.com",
+      "address": "Jl. Melati 5, Bandung, Indonesia",
+      "phone_number": "082212345678"
+    },
+    {
+      "id": 15,
+      "name": "Ratna Putri",
+      "email": "ratna@example.com",
+      "address": "Jl. Kenanga 8, Makassar, Indonesia",
+      "phone_number": "082212345678"
+    },
+    {
+      "id": 16,
+      "name": "Hendro Kusuma",
+      "email": "hendro@example.com",
+      "address": "Jl. Pahlawan 21, Yogyakarta, Indonesia",
+      "phone_number": "082212345678"
+    },
+    {
+      "id": 17,
+      "name": "Fitri Wahyu",
+      "email": "fitri@example.com",
+      "address": "Jl. Anggrek 9, Surakarta, Indonesia",
+      "phone_number": "082212345678"
+    },
+    {
+      "id": 18,
+      "name": "Bayu Pramana",
+      "email": "bayu@example.com",
+      "address": "Jl. Puri Indah 15, Denpasar, Indonesia",
+      "phone_number": "082212345678"
+    },
+    {
+      "id": 19,
+      "name": "Mira Susanti",
+      "email": "mira@example.com",
+      "address": "Jl. Dahlia 3, Palembang, Indonesia",
+      "phone_number": "082212345678"
+    },
+    {
+      "id": 20,
+      "name": "Eko Purnomo",
+      "email": "eko@example.com",
+      "address": "Jl. Cendrawasih 10, Semarang, Indonesia",
+      "phone_number": "082212345678"
     }
-]
+  ]
+  
