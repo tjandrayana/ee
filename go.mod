@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/go-chi/chi v1.5.4
 	github.com/olivere/elastic/v7 v7.0.32
-	github.com/tjandrayana/searchable-encryption v0.0.0-20230808070957-38a602270b6c
+	github.com/tjandrayana/searchable-encryption v0.0.0-20230809111505-2cf760124b8e
 	google.golang.org/grpc v1.57.0
 	gopkg.in/yaml.v2 v2.4.0
 )
